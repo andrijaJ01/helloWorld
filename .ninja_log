@@ -1,0 +1,5 @@
+# ninja log v5
+0	11	0	clean	a31eedcededa8236
+0	667	1616619036116240635	build.ninja	449bb3beca46352
+2	875	1616617469961856965	CMakeFiles/mainExec.dir/src/main.cpp.o	bc1ff8b9ef959449
+876	1142	1616617470225190201	mainExec	3793aed47dc3defb

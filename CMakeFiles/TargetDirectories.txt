@@ -1,3 +1,0 @@
-/tmp/c++/helloWorld/CMakeFiles/edit_cache.dir
-/tmp/c++/helloWorld/CMakeFiles/rebuild_cache.dir
-/tmp/c++/helloWorld/CMakeFiles/HelloWorld.dir
