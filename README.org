@@ -1,0 +1,44 @@
+* HelloWorld c/c++ project for linux with cmake and using ninja build system
+This is basic c/c++ project template that uses ninja as build system and cmake project
+
+
+* Requirements
+to begin you will need few tools to build this example:
+#+BEGIN_SRC bash
+
+sudo pacman -S base-devel ninja cmake #arch and arch based
+
+sudo apt-get install build-essentials #debian and debian based
+
+#+END_SRC
+
+* Building
+
+to build go run build.sh script in project root
+
+#+BEGIN_EXAMPLE bash
+chmod +x build.sh
+./build.sh
+#+END_EXAMPLE
+
+then go to the build directory and run ninja
+
+#+BEGIN_EXAMPLE bash
+cd build/
+ninja
+cd ..
+#+END_EXAMPLE
+
+the executable can be found in bin directory.
+To test if everyting worked
+#+BEGIN_SRC bash
+./bin main_0.1
+#+END_SRC
+
+#+BEGIN_COMMENT
+output should be following:
+
+Object is being created, length = 10
+Length of line : 10
+Length of line : 6
+#+END_COMMENT
