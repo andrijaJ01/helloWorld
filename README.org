@@ -34,11 +34,10 @@ To test if everyting worked
 #+BEGIN_SRC bash
 ./bin main_0.1
 #+END_SRC
-
-#+BEGIN_COMMENT
 output should be following:
 
+#+begin_src
 Object is being created, length = 10
 Length of line : 10
 Length of line : 6
-#+END_COMMENT
+#+end_src
