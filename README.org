@@ -41,3 +41,9 @@ Object is being created, length = 10
 Length of line : 10
 Length of line : 6
 #+end_src
+
+
+#+begin_quote
+Creative minds are uneven and the best facric has dull spots.
+H. P. Lovecraft
+#+end_quote
